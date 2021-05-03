@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @johnamaze369
-- 👀 I’m interested in ...java
-- 🌱 I’m currently learning ...flask
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ..something
 - 💞️ I’m looking to collaborate on ...web development
 - 📫 How to reach me ...sudippokhrel14s@gmail.com
 
